@@ -1,4 +1,4 @@
-const SwitcherPopup = imports.ui.switcherPopup,
+const SwitcherPopup = imports.ui.switcherPopup;
 
 function init() {
 }
