@@ -6,7 +6,7 @@ This extension is actively maintained.
 It fixes at least this known issue: https://gitlab.gnome.org/GNOME/mutter/issues/888.
 
 
-## Supported GNOME versions3.30  
+## Supported GNOME versions
 3.26  
 3.28  
 3.30  
@@ -14,8 +14,9 @@ It fixes at least this known issue: https://gitlab.gnome.org/GNOME/mutter/issues
 3.34  
 3.36  
 3.38  
-40
-41
+40  
+41  
+42  
 
 ## Installation
 1. git clone git://github.com/BjoernDaase/remove-alt-tab-delay
