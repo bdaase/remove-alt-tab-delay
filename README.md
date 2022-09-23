@@ -17,6 +17,7 @@ It fixes at least this known issue: https://gitlab.gnome.org/GNOME/mutter/issues
 40  
 41  
 42  
+43  
 
 ## Installation
 1. git clone git://github.com/BjoernDaase/remove-alt-tab-delay
