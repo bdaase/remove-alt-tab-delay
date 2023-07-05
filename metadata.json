@@ -1,6 +1,6 @@
 {
-  "description": "Another extension that removes the 0.15 second popup delay in switcher pop-ups. This extension is actively maintained. It fixes at least this known issue: https://gitlab.gnome.org/GNOME/mutter/issues/888.",
-  "name": "Remove Alt+Tab Delay v2",
+  "description": "Another extension that removes the 0.15 second popup delay in application and window switcher.",
+  "name": "Remove Alt+Tab Delay v3",
   "shell-version": [
     "3.26",
     "3.28",
@@ -12,9 +12,10 @@
     "40",
     "41",
     "42",
-    "43"
+    "43",
+    "44"
   ],
-  "url": "https://github.com/BjoernDaase/remove-alt-tab-delay",
-  "uuid": "remove-alt-tab-delay@daase.net",
+  "url": "https://github.com/fyksen/remove-alt-tab-delay",
+  "uuid": "remove-alt-tab-delay@fyksen.me",
   "version": 1
 }

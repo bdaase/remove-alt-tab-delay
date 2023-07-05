@@ -18,8 +18,9 @@ It fixes at least this known issue: https://gitlab.gnome.org/GNOME/mutter/issues
 41  
 42  
 43  
+44
 
 ## Installation
-1. `git clone https://github.com/bdaase/remove-alt-tab-delay ~/.local/share/gnome-shell/extensions/remove-alt-tab-delay@daase.net`
+1. `git clone https://github.com/fyksen/remove-alt-tab-delay ~/.local/share/gnome-shell/extensions/remove-alt-tab-delay@fyksen.me`
 2. Log out and log back in
 3. Activate the extension in the GNOME Extensions app
